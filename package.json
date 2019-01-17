@@ -1,0 +1,19 @@
+{
+    "name": "validate-items",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "joi": "^13.0.2",
+        "lodash": "^4.17.4",
+        "zlib": "^1.0.5"
+    }
+}
